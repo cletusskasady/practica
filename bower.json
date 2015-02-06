@@ -1,0 +1,24 @@
+{
+  "name": "cletusskasady",
+  "version": "0.1.0",
+  "authors": [
+    "cletusskasady <cletusskasady@gmail.com>"
+  ],
+  "description": "proyecto estatico utilizando bower",
+  "keywords": [
+    "ieso",
+    "project"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
